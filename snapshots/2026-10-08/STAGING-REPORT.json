@@ -1,0 +1,18 @@
+{
+  "resources": [
+    {
+      "resourceKey": "turkish_mokhtasar",
+      "chapters": 114,
+      "ayahs": 6236,
+      "publisherVersion": null
+    },
+    {
+      "resourceKey": "french_mokhtasar",
+      "chapters": 114,
+      "ayahs": 6236,
+      "publisherVersion": null
+    }
+  ],
+  "publicUploads": false,
+  "appChanges": false
+}
