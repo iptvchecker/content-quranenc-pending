@@ -1,9 +1,8 @@
-# Private QuranEnc Muhtasar staging
+# QuranEnc Mokhtasar editions
 
-This repository is private. No app source, user data, credentials, or cloning tools are included.
+`snapshots/2026-10-08/` contains 114 original chapter JSON responses for each of the Turkish and French Mokhtasar editions, 228 responses in total.
 
-`snapshots/2026-10-08/` contains 114 original chapter JSON responses for each of Turkish and French Muhtasar (228 total). Responses are preserved byte-for-byte from QuranEnc; SOURCE.json records URL, HTTP validators, retrieval date, and SHA-256. All expected surah/ayah identities and nonempty translation fields were verified during staging.
+Responses are preserved byte-for-byte from QuranEnc. SOURCE.json records original URLs, HTTP validators, retrieval dates and SHA-256 hashes. Expected surah/ayah identities and nonempty translation fields were verified during capture. Publisher version metadata has not yet been confirmed. Retrieval dates are distinct from original publication dates.
 
-Publisher version metadata and redistribution confirmation are pending. These copies are not activated in any app build. No claim that download date is the original publication date is made. No automatic source-driven deletion is performed.
-
-Original sources: https://quranenc.com/en/home/api and https://quranenc.com/en/home/api_terms/ . The six already approved translation mirrors remain in the separate content-quranenc repository.
+Source: https://quranenc.com/en/home/api
+Source documentation: https://quranenc.com/en/home/api_terms/
